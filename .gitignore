@@ -26,3 +26,6 @@
 
 ### VS Code ###
 .vscode/
+
+### idea ###
+target/
