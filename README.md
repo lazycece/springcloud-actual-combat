@@ -1,6 +1,6 @@
 # Spring Cloud Actual Combat
 
-A project about [springcloud-Hoxton](https://spring.io/projects/spring-cloud) actual combat.
+[Spring Cloud Hoxton](https://spring.io/projects/spring-cloud) 实战案例及教程
 
 ## Description
 
