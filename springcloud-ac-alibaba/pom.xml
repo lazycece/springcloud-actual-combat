@@ -20,6 +20,7 @@
 	<modules>
 		<module>springcloud-ac-alibaba-nacos-config</module>
 		<module>springcloud-ac-alibaba-nacos-discovery</module>
+        <module>springcloud-ac-alibaba-seata</module>
 	</modules>
 
     <dependencyManagement>
