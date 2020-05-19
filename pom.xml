@@ -18,7 +18,9 @@
     <modules>
         <module>springcloud-ac-alibaba</module>
         <module>springcloud-ac-gateway</module>
+        <module>springcloud-ac-netflix</module>
         <module>springcloud-ac-openfeign</module>
+        <module>springcloud-ac-zookeeper</module>
     </modules>
 
     <properties>
