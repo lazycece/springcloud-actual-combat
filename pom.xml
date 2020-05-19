@@ -17,6 +17,8 @@
 
     <modules>
         <module>springcloud-ac-alibaba</module>
+        <module>springcloud-ac-gateway</module>
+        <module>springcloud-ac-openfeign</module>
     </modules>
 
     <properties>
